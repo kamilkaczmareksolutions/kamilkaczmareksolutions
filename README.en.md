@@ -1,6 +1,6 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
-<img align="right" src="assets/header.jpg" width="200" alt="Grok Bot &amp; pstack">
+<img align="right" src="assets/header-square.jpg" width="200" alt="Grok Bot &amp; pstack">
 
 ### Hi
 
