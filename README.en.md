@@ -2,7 +2,7 @@
 
 ### Hi
 
-<img align="right" src="assets/header.jpg" width="260" alt="Grok Bot &amp; pstack">
+<img align="right" src="assets/header.jpg" width="200" alt="Grok Bot &amp; pstack">
 
 I'm Kamil. Software engineer at Kooperatywa Online since November 2023 (marketing agency), full-time, remote. I build production AI systems for sales and marketing teams. Open to new opportunities.
 
