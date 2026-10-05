@@ -6,7 +6,7 @@
 
 Jestem Kamil. Programista w Kooperatywa Online od listopada 2023 (agencja marketingowa), pełny etat, zdalnie. Buduję produkcyjne systemy AI dla zespołów sprzedażowych i marketingowych. Szukam nowych wyzwań.
 
-Angielski B2. Licencjat marketing i sprzedaż, Uniwersytet WSB Merito Chorzów, 2020-2024. Siemianowice Śląskie.
+Angielski B2. Licencjat marketing i sprzedaż, Uniwersytet WSB Merito Chorzów, 2020-2024. Katowice.
 
 #### Co buduję
 

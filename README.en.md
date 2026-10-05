@@ -6,7 +6,7 @@
 
 I'm Kamil. Software engineer at Kooperatywa Online since November 2023 (marketing agency), full-time, remote. I build production AI systems for sales and marketing teams. Open to new opportunities.
 
-English B2. Bachelor's in marketing and sales, Uniwersytet WSB Merito Chorzów, 2020-2024. Based in Siemianowice Śląskie, Poland.
+English B2. Bachelor's in marketing and sales, Uniwersytet WSB Merito Chorzów, 2020-2024. Based in Katowice, Poland.
 
 #### What I build
 
