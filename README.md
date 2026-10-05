@@ -2,7 +2,7 @@
 
 ### Cześć
 
-<img align="right" src="assets/header.png" width="260" alt="Sieć połączeń od rozmowy do wyników">
+<img align="right" src="assets/header.jpg" width="260" alt="Grok Bot &amp; pstack">
 
 Jestem Kamil. Programista w Kooperatywa Online od listopada 2023 (agencja marketingowa), pełny etat, zdalnie. Buduję produkcyjne systemy AI dla zespołów sprzedażowych i marketingowych. Szukam nowych wyzwań.
 
