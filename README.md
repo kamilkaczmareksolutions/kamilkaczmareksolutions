@@ -1,8 +1,8 @@
 <p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
 
-### Cześć
-
 <img align="right" src="assets/header.jpg" width="200" alt="Grok Bot &amp; pstack">
+
+### Cześć
 
 Jestem Kamil. Programista w Kooperatywa Online od listopada 2023 (agencja marketingowa), pełny etat, zdalnie. Buduję produkcyjne systemy AI dla zespołów sprzedażowych i marketingowych. Szukam nowych wyzwań.
 
