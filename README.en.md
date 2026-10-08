@@ -4,7 +4,9 @@
 
 ### Hi
 
-I'm Kamil. Software developer at Kooperatywa Online since November 2023 (marketing agency), full-time, remote. I build production AI systems for sales and marketing teams. Open to new opportunities.
+I'm Kamil. Full Stack Developer at Kooperatywa Online since November 2023 (marketing agency), full-time, remote. I build production AI systems for sales and marketing teams. Open to new opportunities.
+
+Since June 2026 I have contributed to the evals track of an open Polish LLM lab (Slayer Labs).
 
 English B2. Bachelor's in marketing and sales, Uniwersytet WSB Merito Chorzów, 2020-2024. Based in Katowice, Poland.
 
@@ -15,11 +17,11 @@ English B2. Bachelor's in marketing and sales, Uniwersytet WSB Merito Chorzów, 
 - Meta Ads account monitoring
 - Call center conversation scoring
 - Meta Ads targeting from a brief
-- Activation campaigns (email and SMS)
+- An email and SMS activation campaign: 40 meetings from a base of 3,106 contacts
 
 #### Stack
 
-Node.js, TypeScript, Python, PostgreSQL, Redis, Docker, Discord.js, Meta Marketing API, Gemini
+Node.js, TypeScript, NestJS, Python, FastAPI, PostgreSQL, Supabase, Redis, Docker, n8n, Discord.js, Meta Marketing API, Gemini
 
 #### Links
 

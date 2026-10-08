@@ -4,9 +4,11 @@
 
 ### Cześć
 
-Jestem Kamil. Programista w Kooperatywa Online od listopada 2023 (agencja marketingowa), pełny etat, zdalnie. Buduję produkcyjne systemy AI dla zespołów sprzedażowych i marketingowych. Szukam nowych wyzwań.
+Jestem Kamil. Programista Full Stack w Kooperatywie Online od listopada 2023 (agencja marketingowa), pełny etat, zdalnie. Buduję produkcyjne systemy AI dla zespołów sprzedażowych i marketingowych. Szukam nowych wyzwań.
 
-Angielski B2. Licencjat marketing i sprzedaż, Uniwersytet WSB Merito Chorzów, 2020-2024. Katowice.
+Od czerwca 2026 kontrybuuję do ścieżki evals w otwartym labie polskiego LLM (Slayer Labs).
+
+Angielski B2. Licencjat z marketingu i sprzedaży, Uniwersytet WSB Merito Chorzów, 2020-2024. Katowice.
 
 #### Co buduję
 
@@ -15,11 +17,11 @@ Angielski B2. Licencjat marketing i sprzedaż, Uniwersytet WSB Merito Chorzów, 
 - Monitoring kont Meta Ads
 - Ocena rozmów call center
 - Targetowanie Meta Ads z briefu
-- Kampanie aktywacyjne mail i SMS
+- Kampania aktywacyjna mail i SMS: 40 spotkań z bazy 3106 kontaktów
 
 #### Stack
 
-Node.js, TypeScript, Python, PostgreSQL, Redis, Docker, Discord.js, Meta Marketing API, Gemini
+Node.js, TypeScript, NestJS, Python, FastAPI, PostgreSQL, Supabase, Redis, Docker, n8n, Discord.js, Meta Marketing API, Gemini
 
 #### Linki
 
