@@ -4,7 +4,7 @@
 
 ### Cześć
 
-Jestem Kamil. Programista Full Stack w Kooperatywie Online od listopada 2023 (agencja marketingowa), pełny etat, zdalnie. Buduję produkcyjne systemy AI dla zespołów sprzedażowych i marketingowych. Szukam nowych wyzwań.
+Jestem Kamil. Od listopada 2023 jestem programistą systemów AI i automatyzacji w Kooperatywie Online (agencja marketingowa, pełny etat, zdalnie). Buduję produkcyjne systemy AI dla zespołów sprzedażowych i marketingowych. Szukam nowych wyzwań.
 
 Od czerwca 2026 kontrybuuję do ścieżki evals w otwartym labie polskiego LLM (Slayer Labs).
 
